@@ -1,1 +1,19 @@
+body{
+    background-color:purple
+    }
+    
+    Estilizar o título principal do seu site
+     h1{
+    color: plum;
+    font-family: arial;
+    background: blue;
+    }
+    
+    Estilizar os parágrafos
 
+    p{
+    color: black;
+    font-family: serif;
+    font-size: 20px;
+    background:white;
+    
